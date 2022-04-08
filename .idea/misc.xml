@@ -5,13 +5,20 @@
       <map>
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/bacground.xml" value="0.135" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/btn_background.xml" value="0.135" />
+        <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/home_btn_background.xml" value="0.17" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.135" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.135" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/ic_baseline_perm_identity_24.xml" value="0.135" />
+        <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/ic_resource_default.xml" value="0.1355" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/drawable/ic_wave.xml" value="0.135" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/course_view.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/fragment_course.xml" value="0.209375" />
+        <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/fragment_home.xml" value="0.23789764868603042" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/fragment_my_course.xml" value="0.209375" />
         <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/AndroidProjects/bUnique/app/src/main/res/layout/my_course_view.xml" value="0.25" />
       </map>
     </option>
   </component>
